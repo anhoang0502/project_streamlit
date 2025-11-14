@@ -10,3 +10,12 @@
 #git commit -m (ghi chu): backup version tren local (co the quay lai trang thai nay luc sau)
 #day len server: git push -u origin (ten nhanh): dua cac commit tu client repo len server repo
 #git push --set-upstream origin master: set up nhánh tren server neu chua co nhanh
+#git clone => clone xuong local
+#git pull => update version mới nhat tu server
+
+
+
+
+
+
+#### deploy streamlit => streamlit.io
